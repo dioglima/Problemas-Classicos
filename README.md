@@ -34,7 +34,9 @@ Instale as dependências:
 
 e execute o código:
 
-```python main.py```
+```python filosofo.py``` 
+
+```python leitor.py```
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, enviar solicitações de pull e melhorar a implementação.
@@ -42,6 +44,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, envia
 ## Licença
 Este projeto é licenciado sob a MIT License.
 
-## Autor
+## Slides da apresentação em sala
+[Slide Apresentação](https://docs.google.com/presentation/d/1eJLRsvJRAW-no5_mR4E2emZy7O-5B-n0/edit?usp=sharing&ouid=104865582749893476202&rtpof=true&sd=true)
+
+
+## Autores
 Diogo Lourenço Linhares Lima
+
+Ádrian Emanoel Oliveira Azevedo
 
